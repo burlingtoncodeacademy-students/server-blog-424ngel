@@ -1,14 +1,20 @@
 [
-    {
-        "post_id": 1,
-        "title": "First Blog Post",
-        "author": "Paul Niemczyk",
-        "body": "These student devs keep getting younger and smarter"
-    }, 
-    {
-        "post_id": 2,
-        "title": "My Blog",
-        "author": "Angelina AE",
-        "body": "Hello! Welcome to my blog :)"
-    }
+  {
+    "post_id": 1,
+    "title": "First Blog Post",
+    "author": "Paul Niemczyk",
+    "body": "These student devs keep getting younger and smarter"
+  },
+  {
+    "title": "Blog",
+    "author": "Angelina AE",
+    "body": "Hellooooo",
+    "post_id": 2
+  },
+  {
+    "title": "My Dog",
+    "author": "Angelina AE",
+    "body": "I love my dog, Frank <3",
+    "post_id": 3
+  }
 ]
